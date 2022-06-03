@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5235e0d0ff9400e61ef10121897f7b5a",
+    "revision": "bda381c2e2d4b380fffc811f75866d3e",
     "url": "/portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "4e44caa876cc203ba865",
+    "revision": "bdb21cf448362a9de536",
     "url": "/portfolio/static/css/main.d3c7dfa4.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/4.1ecf47cb.chunk.js"
   },
   {
-    "revision": "4e44caa876cc203ba865",
-    "url": "/portfolio/static/js/main.bb411d10.chunk.js"
+    "revision": "bdb21cf448362a9de536",
+    "url": "/portfolio/static/js/main.bce62c7a.chunk.js"
   },
   {
     "revision": "109c7f033e7c41b6c964",
@@ -68,20 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "a6fcc369159efdb2b30de0fa455a8508",
+    "url": "/portfolio/static/media/ecommerce.a6fcc369.jpeg"
+  },
+  {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/portfolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "19f8f2620fed870d1f5b01fc59d2c4a9",
-    "url": "/portfolio/static/media/hochschule-hof.19f8f262.gif"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/portfolio/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/portfolio/static/media/nextuLogo.829ad0a1.webp"
   },
   {
     "revision": "0ce562cbdfa244a8b5aa938b23b10ecd",
